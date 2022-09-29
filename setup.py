@@ -105,9 +105,9 @@ with open(long_description_filename) as fd:
     long_description = fd.read()
 
 setup(
-    name='installutils',
+    name='installutils-demo',
     version='1.0.0',
-    description='a template for executing build steps on package install',
+    description='a template for executing build steps on package install - demo version',
     author='The InstallUtils Team',
     author_email='44acamach0@gmail.com',
     long_description=long_description,
